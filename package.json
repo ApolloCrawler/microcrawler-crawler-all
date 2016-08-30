@@ -1,6 +1,6 @@
 {
   "name": "microcrawler-crawler-all",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "References all crawlers",
   "main": "index.js",
   "scripts": {
@@ -15,5 +15,15 @@
   "bugs": {
     "url": "https://github.com/ApolloCrawler/microcrawler-crawler-all/issues"
   },
-  "homepage": "https://github.com/ApolloCrawler/microcrawler-crawler-all#readme"
+  "homepage": "https://github.com/ApolloCrawler/microcrawler-crawler-all#readme",
+  "dependencies": {
+    "microcrawler-crawler-craiglist.com": "0.0.1",
+    "microcrawler-crawler-firmy.cz": "0.0.1",
+    "microcrawler-crawler-google.com": "0.0.1",
+    "microcrawler-crawler-news.ycombinator.com": "0.0.1",
+    "microcrawler-crawler-sreality.cz": "0.0.1",
+    "microcrawler-crawler-xkcd.com": "0.0.1",
+    "microcrawler-crawler-yelp.com": "0.0.1",
+    "microcrawler-crawler-youjizz.com": "0.0.1"
+  }
 }
