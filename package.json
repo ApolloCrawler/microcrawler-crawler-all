@@ -1,6 +1,6 @@
 {
   "name": "microcrawler-crawler-all",
-  "version": "0.0.14",
+  "version": "0.0.15",
   "description": "References all crawlers",
   "main": "index.js",
   "scripts": {
@@ -20,6 +20,7 @@
     "microcrawler-crawler-craiglist.com": "0.0.4",
     "microcrawler-crawler-firmy.cz": "0.0.7",
     "microcrawler-crawler-google.com": "0.0.4",
+    "microcrawler-crawler-heureka.cz": "0.0.1",
     "microcrawler-crawler-news.ycombinator.com": "0.0.4",
     "microcrawler-crawler-sreality.cz": "0.0.9",
     "microcrawler-crawler-xkcd.com": "0.0.7",
