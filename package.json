@@ -1,6 +1,6 @@
 {
   "name": "microcrawler-crawler-all",
-  "version": "0.0.17",
+  "version": "0.0.18",
   "description": "References all crawlers",
   "main": "index.js",
   "scripts": {
@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/ApolloCrawler/microcrawler-crawler-all#readme",
   "dependencies": {
+    "microcrawler-crawler-bam.brno.cz": "0.0.2",
     "microcrawler-crawler-craiglist.com": "0.0.4",
     "microcrawler-crawler-firmy.cz": "0.0.8",
     "microcrawler-crawler-google.com": "0.0.4",
