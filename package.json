@@ -1,6 +1,6 @@
 {
   "name": "microcrawler-crawler-all",
-  "version": "0.0.18",
+  "version": "0.0.19",
   "description": "References all crawlers",
   "main": "index.js",
   "scripts": {
